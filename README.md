@@ -2,7 +2,7 @@
 Personal repository for the IIC2565 Competitive Programming course from Pontificia Universidad Católica de Chile.
 
 ## Compilation
-To compile and excecute a program with g++, use the following command:
+To compile and execute a program with g++, use the following command:
 ```bash
 g++ program.cpp -o exec && ./exec
 ```
