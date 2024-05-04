@@ -23,3 +23,10 @@ int main() {
 }
 ```
 Adapted from the [ACM-ICPC Cheat Sheet](https://github.com/ntuorangejuice/cheat-sheet?tab=readme-ov-file#11-c-solution-template).
+
+## Contests
+
+- [Contest 1](https://vjudge.net/contest/614785)
+- [Contest 2](https://vjudge.net/contest/617930)
+- [Contest 3](https://vjudge.net/contest/620901)
+- [Contest 5](https://vjudge.net/contest/624658)
