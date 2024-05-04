@@ -26,7 +26,7 @@ Adapted from the [ACM-ICPC Cheat Sheet](https://github.com/ntuorangejuice/cheat-
 
 ## Contests
 
-- [Contest 1](https://vjudge.net/contest/614785)
-- [Contest 2](https://vjudge.net/contest/617930)
-- [Contest 3](https://vjudge.net/contest/620901)
-- [Contest 5](https://vjudge.net/contest/624658)
+- [Contest 1 - Introduction](https://vjudge.net/contest/614785)
+- [Contest 2 - Binary Search](https://vjudge.net/contest/617930)
+- [Contest 3 - Graphs](https://vjudge.net/contest/620901)
+- [Contest 5 - Union Find](https://vjudge.net/contest/624658)
