@@ -30,3 +30,6 @@ Adapted from the [ACM-ICPC Cheat Sheet](https://github.com/ntuorangejuice/cheat-
 - [Contest 2 - Binary Search](https://vjudge.net/contest/617930)
 - [Contest 3 - Graphs](https://vjudge.net/contest/620901)
 - [Contest 5 - Union Find](https://vjudge.net/contest/624658)
+- [Contest 6 - Greedy](https://vjudge.net/contest/627987)
+- [Contest 7 - MST](https://vjudge.net/contest/629391)
+- [Contest 8 - DP](https://vjudge.net/contest/630416)
